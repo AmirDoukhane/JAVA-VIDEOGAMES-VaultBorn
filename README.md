@@ -331,8 +331,6 @@ Les contributions sont les bienvenues ! Pour contribuer :
 Développé dans le cadre d'un projet académique  
 Étudiant en développement de jeux vidéo
 
-📧 Contact : [ouisolclems@gmail.com]  
-🔗 GitHub : [Soleil OUISOL](https://github.com/Soleil-Clems)
 
 ---
 
